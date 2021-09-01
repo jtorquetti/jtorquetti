@@ -1,8 +1,7 @@
 ### Hi there, my name is Joao Torquetti 👋
+Geek🤓 Gamer🎮 and future Dev🧑🏻‍💻
 
-- 🔭 I’m currently working on Front-end development
-- 🌱 I’m currently learning React.
-- 📫 How to reach me: joao.torquetti@outlook.ie
+I am a professional with over 15 years of experience in many fields, studying and doing my best to be a Front end developer and change my life and career at 30🚀🧑🏻‍💻
 
 <div>
   <a href="https://github.com/jtorquetti">
