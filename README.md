@@ -1,7 +1,7 @@
 ### Hi there, my name is Joao Torquetti 👋
 Geek🤓 Gamer🎮 and future Dev🧑🏻‍💻
 
-I am a professional with over 15 years of experience in many fields, studying and doing my best to be a Front end developer and change my life and career at 30🚀🧑🏻‍💻
+I am a professional with over 15 years of experience in many fields, studying and doing my best to change my career and become a developer.
 
 <div>
   <a href="https://github.com/jtorquetti">
